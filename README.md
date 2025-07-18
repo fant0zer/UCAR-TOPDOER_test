@@ -1,1 +1,9 @@
-# UCAR-TOPDOER_test
+# Отзывы
+
+Микросервис для анализа тональности отзывов на FastAPI.
+
+## Установка и запуск
+
+1. Установите зависимости:
+```bash
+pip install fastapi uvicorn sqlite3
